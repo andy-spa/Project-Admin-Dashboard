@@ -1,0 +1,19 @@
+<svg width="88" height="88" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="historyFrame" clip-path="url(#clip0_0_1)">
+<g id="historyIcon">
+<g id="history">
+<path id="Vector" d="M65.145 50.2302V62.6592C65.145 79.2312 58.5162 85.86 41.9442 85.86H26.2008C9.6288 85.86 3 79.2312 3 62.6592V46.9158C3 30.3438 9.6288 23.715 26.2008 23.715H38.6298" stroke="#157DFF" stroke-width="6.2145" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M65.145 50.2302H51.8874C41.9442 50.2302 38.6298 46.9158 38.6298 36.9726V23.715L65.145 50.2302Z" stroke="#157DFF" stroke-width="6.2145" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M42.7728 3H59.3448" stroke="#157DFF" stroke-width="6.2145" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M23.715 15.429C23.715 8.55162 29.2666 3 36.144 3H46.9987" stroke="#157DFF" stroke-width="6.2145" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M85.8596 27.858V53.5032C85.8596 59.9248 80.6394 65.145 74.2178 65.145" stroke="#157DFF" stroke-width="6.2145" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M85.86 27.858H73.431C64.1092 27.858 61.002 24.7508 61.002 15.429V3L85.86 27.858Z" stroke="#157DFF" stroke-width="6.2145" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="88" height="88" fill="white"/>
+</clipPath>
+</defs>
+</svg>
